@@ -1,0 +1,22 @@
+{
+  "name": "YFImageButton",
+  "version": "0.1.0",
+  "summary": "A short description of YFImageButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YvanWang/YFImageButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YvanWang": "yffswyf@live.com"
+  },
+  "source": {
+    "git": "https://github.com/YvanWang/YFImageButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YFImageButton/Classes/**/*"
+}

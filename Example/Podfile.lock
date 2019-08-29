@@ -1,0 +1,16 @@
+PODS:
+  - YFImageButton (0.1.0)
+
+DEPENDENCIES:
+  - YFImageButton (from `../`)
+
+EXTERNAL SOURCES:
+  YFImageButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YFImageButton: 0bc65c97c145bc6425506eaae9dd4df426ac5cc8
+
+PODFILE CHECKSUM: fb067a5621aaa683dc64c6e6c2c1a369c0a968ce
+
+COCOAPODS: 1.6.0.beta.2

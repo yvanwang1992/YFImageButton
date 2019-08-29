@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YFImageButton_Tests' do
+  pod 'YFImageButton', :path => '../'
+  
+  
+end

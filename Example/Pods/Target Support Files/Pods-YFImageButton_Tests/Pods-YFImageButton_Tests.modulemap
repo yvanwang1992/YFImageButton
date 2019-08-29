@@ -1,0 +1,6 @@
+framework module Pods_YFImageButton_Tests {
+  umbrella header "Pods-YFImageButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

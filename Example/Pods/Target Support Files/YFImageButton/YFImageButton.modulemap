@@ -1,0 +1,6 @@
+framework module YFImageButton {
+  umbrella header "YFImageButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
